@@ -131,3 +131,10 @@ kernel/configs/android-*.cfg
 #Ignoring Android.bp link file
 #
 Android.bp
+
+#ingore all
+KernelSU/
+compile.sh
+clo.sh
+eror.log
+out/
